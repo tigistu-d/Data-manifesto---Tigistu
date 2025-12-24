@@ -1,4 +1,4 @@
-# Data Science Final Project
+# CS-215 Final Project
 
 This repository contains my final project submission for CS-215.
 
