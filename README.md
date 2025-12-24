@@ -1,6 +1,6 @@
 # Data Science Final Project
 
-This repository contains my final project submission for CS167.
+This repository contains my final project submission for CS-215.
 
 ## Files
 
